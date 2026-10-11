@@ -1,0 +1,39 @@
+
+# OpenAI API integration
+langchain-mistralai
+langchain-google-genai
+
+# LangChain core and OpenAI integration
+langchain
+langchain-core
+langchain-openai
+
+# Agent creation and tool integration
+langchain-community
+langgraph
+
+# Tavily web search tool
+langchain-tavily
+tavily-python
+
+# Web scraping using BeautifulSoup
+beautifulsoup4
+requests
+
+# HTML parsing support
+lxml
+
+# Environment variable management for API keys
+python-dotenv
+
+# Data validation and structured outputs
+pydantic
+
+# Asynchronous HTTP requests (useful for concurrent agents)
+aiohttp
+
+# Retry handling for API calls
+tenacity
+
+fastapi
+uvicorn[standard]
